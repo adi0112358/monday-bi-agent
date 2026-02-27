@@ -1,12 +1,13 @@
 from dataclasses import dataclass, asdict
 from time import time
+from typing import Optional
 
 @dataclass
 class TraceEvent:
     step: str
     detail: str
-    rows: int | None = None
-    ms: int | None = None
+    rows: Optional[int] = None
+    ms: Optional[int] = None
 
 class Tracer:
     def __init__(self):
