@@ -126,6 +126,6 @@ Use `sample_queries.md`.
 - LLM parser includes deterministic fallback. If provider quota/rate limits are hit, the app falls back to rule-based intent parsing.
 
 ## Submission Links
-- Hosted app: `<add_link>`
-- monday Deals board: `<add_link>`
-- monday Work Orders board: `<add_link>`
+- Hosted app: ``
+- monday Deals board: `https://aditya-anand.monday.com/boards/5026891663`
+- monday Work Orders board: `https://aditya-anand.monday.com/boards/5026891666`
