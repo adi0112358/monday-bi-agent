@@ -1,4 +1,13 @@
+import sys
+from pathlib import Path
+
 import streamlit as st
+
+# Ensure repo root is importable when Streamlit runs app/main.py directly.
+ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
 from app.agent.orchestrator import answer_question
 from app.config import DATA_BACKEND
 
