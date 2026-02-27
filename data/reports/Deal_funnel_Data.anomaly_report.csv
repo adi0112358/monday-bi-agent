@@ -1,0 +1,42 @@
+Deal Name,Owner code,Client Code,Deal Status,Close Date (A),Closure Probability,Masked Deal value,Tentative Close Date,Deal Stage,Product deal,Sector/service,Created Date,source_row_number,quality_flag
+Sakura,OWNER_003,COMPANY111,Open,,Medium,7832265.5232,2026-03-31,E. Proposal/Commercials Sent,Pure Service,Railways,2026-01-08,17,business_key_duplicate
+Sakura,OWNER_004,COMPANY149,Open,,High,12234000.0,2026-02-14,E. Proposal/Commercials Sent,Dock + DMO + Spectra + Service,DSP,,18,missing_created_date
+Tanjiro,OWNER_001,COMPANY038,,,,,,A. Lead Generated,,,2026-01-08,49,missing_deal_status
+Nezuko,,,,,,,,Deal Stage,Product deal,Sector/service,,52,embedded_header_row|invalid_deal_status|invalid_closure_probability|invalid_close_date_a|invalid_tentative_close_date|invalid_created_date|missing_owner_code|missing_deal_status|missing_created_date
+Yuji Itadori,,COMPANY172,Dead,,,,2025-06-19,L. Project Lost,,Mining,2024-08-09,56,missing_owner_code
+Yuji Itadori,,COMPANY172,Dead,,,,2025-06-19,L. Project Lost,,Mining,2024-08-16,57,missing_owner_code
+Finn the Human,,COMPANY186,Dead,,,,2024-11-25,J. Invoice sent,,Mining,2024-08-16,64,missing_owner_code
+Faye Valentine,,COMPANY186,Dead,,,,2024-11-30,C. Demo Done,,Mining,2024-10-08,86,missing_owner_code
+Kenshin,,COMPANY186,Dead,,,,2024-11-16,J. Invoice sent,,Mining,2024-11-01,87,missing_owner_code
+Rei,,COMPANY172,Dead,,,,2024-12-31,E. Proposal/Commercials Sent,,Others,2024-11-02,88,missing_owner_code
+Jake the Dog,,COMPANY017,Dead,,,,2024-12-31,E. Proposal/Commercials Sent,,Renewables,2024-11-05,89,missing_owner_code
+Itachi,,COMPANY016,Dead,,,,2024-12-31,B. Sales Qualified Leads,,Renewables,2024-11-21,102,missing_owner_code
+Itachi,,COMPANY172,Dead,,,,2025-01-31,B. Sales Qualified Leads,,Mining,2024-12-04,103,missing_owner_code
+Itachi,,COMPANY018,Dead,,,,2024-12-20,J. Invoice sent,,Others,2024-12-12,104,missing_owner_code
+Trunks,OWNER_003,COMPANY038,Dead,,,367020.0,2025-02-28,N. Not relevant at the moment,Pure Service,Renewables,2025-01-16,109,business_key_duplicate
+Sesshomaru,OWNER_002,COMPANY125,Dead,,,3383159.775,2025-05-26,L. Project Lost,Service + Spectra,Powerline,2025-05-13,120,business_key_duplicate
+Gohan,,COMPANY195,Dead,,,,2025-09-30,D. Feasibility,,Mining,2025-08-25,166,missing_owner_code
+Gohan,,COMPANY119,Dead,,,,2025-10-31,E. Proposal/Commercials Sent,,Others,2025-09-05,167,missing_owner_code
+Bugs Bunny,,,,,,,,Deal Stage,Product deal,Sector/service,,181,embedded_header_row|invalid_deal_status|invalid_closure_probability|invalid_close_date_a|invalid_tentative_close_date|invalid_created_date|missing_owner_code|missing_deal_status|missing_created_date
+Bugs Bunny,OWNER_001,COMPANY137,Won,,,,,A. Lead Generated,,Mining,2025-11-27,185,business_key_duplicate
+Scooby-Doo,OWNER_001,COMPANY137,Won,,,,,A. Lead Generated,,Mining,2025-11-27,187,business_key_duplicate
+Scooby-Doo,OWNER_001,COMPANY024,Won,,,,,A. Lead Generated,,Mining,2025-11-27,189,business_key_duplicate
+Scooby-Doo,OWNER_001,COMPANY024,Won,,,,,A. Lead Generated,,Mining,2025-11-27,190,business_key_duplicate
+,OWNER_003,COMPANY165,Won,,,,,A. Lead Generated,,Railways,2025-11-27,194,missing_deal_name
+,OWNER_001,COMPANY140,Won,,,,,A. Lead Generated,,Mining,2025-11-27,199,missing_deal_name
+Stewie Griffin,OWNER_001,COMPANY076,Won,,,,,A. Lead Generated,,Mining,2025-11-27,205,business_key_duplicate
+Stewie Griffin,OWNER_001,COMPANY076,Won,,,,,A. Lead Generated,,Mining,2025-11-27,206,business_key_duplicate
+Stewie Griffin,OWNER_001,COMPANY076,Won,,,,,A. Lead Generated,,Mining,2025-11-27,207,business_key_duplicate
+Stewie Griffin,OWNER_001,COMPANY076,Won,,,,,A. Lead Generated,,Mining,2025-11-27,208,business_key_duplicate
+Stewie Griffin,OWNER_001,COMPANY169,Won,,High,,,A. Lead Generated,,Renewables,2025-11-27,212,business_key_duplicate
+Ben Tennyson,OWNER_003,COMPANY113,Won,,,,,A. Lead Generated,,Mining,2025-11-27,238,business_key_duplicate
+Mojo Jojo,OWNER_003,COMPANY151,Won,,,,,A. Lead Generated,,Railways,2025-11-27,248,business_key_duplicate
+Mojo Jojo,,COMPANY109,Won,,,,,A. Lead Generated,,Mining,2025-11-27,249,missing_owner_code
+Sokka,,COMPANY172,Won,,,,2024-09-30,Project Completed,,Mining,2024-08-09,254,missing_owner_code
+Appa,OWNER_003,COMPANY133,Won,,,,2024-09-30,Project Completed,Pure Service,Renewables,2024-08-30,260,business_key_duplicate
+Po (Kung Fu Panda),OWNER_003,COMPANY005,Won,,,,2024-10-31,H. Work Order Received,Pure Service,Mining,2024-09-20,264,business_key_duplicate
+Po (Kung Fu Panda),,COMPANY038,Won,,,,2024-11-13,Project Completed,,Renewables,2024-11-05,265,missing_owner_code
+Rafiki,OWNER_003,COMPANY005,Won,,,721806.0,2025-05-22,H. Work Order Received,Pure Service,Mining,2025-05-17,300,business_key_duplicate
+Rafiki,OWNER_003,COMPANY005,Won,,,550530.0,2025-05-30,H. Work Order Received,Pure Service,Mining,2025-05-17,301,business_key_duplicate
+Rafiki,OWNER_003,COMPANY005,Won,,,2960628.0,2025-05-22,H. Work Order Received,Pure Service,Mining,2025-05-17,302,business_key_duplicate
+Alias_174,OWNER_003,COMPANY132,Won,2026-01-15,High,611700.0,2026-02-28,G. Project Won,Pure Service,Renewables,2026-01-08,346,business_key_duplicate
